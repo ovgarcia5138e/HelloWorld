@@ -1,4 +1,7 @@
 package sample;
+/*
+Oscar Garcia Vazquez
+ */
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
